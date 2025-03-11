@@ -1,4 +1,3 @@
-
 (function(window) {
     const speakWord = "Hello";
 
